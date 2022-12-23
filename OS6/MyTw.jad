@@ -1,0 +1,21 @@
+MIDlet-Name: MyTw
+MIDlet-Version: 1.0.5
+MIDlet-Vendor: vnapps.com
+MIDlet-Jar-URL: MyTw.jar
+MIDlet-Jar-Size: 90791
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: MyTw,res/ic_note.png,
+RIM-MIDlet-Icon-Count-1: 1
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: MyTw.cod
+RIM-COD-Size: 37284
+RIM-COD-Creation-Time: 1671783201
+RIM-COD-Module-Name: MyTw
+RIM-COD-Module-Dependencies: net_rim_cldc,HLibs,net_rim_json_org
+RIM-COD-SHA1: ef e3 de 00 d1 7f 40 df 75 36 ee b8 c7 aa 7c 92 26 da 24 ef
+RIM-MIDlet-Icon-1-1: res/ic_note_at.png,focused
+RIM-COD-URL-1: HLibs.cod
+RIM-Library-Flags: 2
+RIM-COD-Size-1: 6880
